@@ -11,7 +11,7 @@ pip install python3
 ## Precondiciones:
 
 - Ambas pistas deben tener la misma cantidad de diálogos.
-- Deben encontrarse en la carpeta `\src` con los nombres `pista-mal-sincronizada` y `pista-bien-sincronizada`
+- Deben encontrarse en la carpeta `\src` con los nombres `pista-mal-sincronizada` y `pista-bien-sincronizada`.
 
 ## Post-condición:
 
