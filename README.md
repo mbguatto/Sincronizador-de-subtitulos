@@ -1,4 +1,4 @@
-# Sincronizador de subtitulos en Python
+# Sincronizador de subtítulos en Python
 
 ## Prerrequisitos:
 
@@ -11,9 +11,7 @@ pip install python3
 ## Precondiciones:
 
 - Ambas pistas deben tener la misma cantidad de diálogos.
-
 - Deben encontrarse en la carpeta `\src` con los nombres `pista-mal-sincronizada` y `pista-bien-sincronizada`
-
 
 ## Post-condición:
 
@@ -21,6 +19,7 @@ pip install python3
 
 
 ---
+
 ##  Funcionamiento
 
 Dada una pista de subs sincronizada correctamente con el archivo de video, permite adaptar otra traducción según esta clave de tiempo. Ej:
